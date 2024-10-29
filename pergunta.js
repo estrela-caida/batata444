@@ -10,7 +10,7 @@ criaCartao(
 )
 criaCartao(
     'Teoria da fotografia'
-    'Quais são os três piláres da fotografia?'
+    'Quais são luz, objeto e composiçãoos três piláres da fotografia?'
     'luz, objeto e composição'
 )
 criaCartao(
