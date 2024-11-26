@@ -40,8 +40,8 @@ criaCartao(
 )
 criaCartao(
     'função da cinematografia',
-    'qual a função da cinematografia'
-    
+    'qual a função da cinematografia',
+    'O Cinema não é apenas uma forma de expressão cultural, mas também um meio de representação. Através de um filme representa-se algo, seja uma realidade percebida e interpretada, ou seja um mundo imaginário livremente criado pelos autores de um filme.'
 )
 criaCartao(
     
