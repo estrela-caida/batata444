@@ -14,10 +14,14 @@ criaCartao(
     'luz, objeto e composição'
 )
 criaCartao(
-    
+    'Produção cinematografica',
+    'Qual o processo da produção cinematografica?',
+    'Produção cinematográfica é o processo de fazer um filme, de uma ideia inicial de história ou escrita do roteiro, filmagem, edição e finalmente distribuição para um público.'
 )
 criaCartao(
-    
+    'Direção e roteiro',
+    'Qual a relação entre diretor e roteiro?',
+    'O roteiro passa por muitos tratamentos antes de começar a ser gravado. O diretor é como o maestro de uma orquestra, entre suas responsabilidades está coordenar todas as outras áreas e equipes. Ele estuda o roteiro profundamente e imagina todas as cenas e planos na sua cabeça, ou, idealmente, em um storyboard.'
 )
 criaCartao(
     
