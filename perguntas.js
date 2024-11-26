@@ -39,6 +39,8 @@ criaCartao(
     'cinematografia significa a arte de produzir imagens em movimento.'
 )
 criaCartao(
+    'função da cinematografia',
+    'qual a função da cinematografia'
     
 )
 criaCartao(
