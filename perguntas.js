@@ -4,9 +4,9 @@ criaCartao(
     '1895, o cinematógrafo projetava curtas-metragens em locais públicos'
 )
 criaCartao(
-'Teoria do cinema',
-'O que se aprende vendo filmes?',
-'Ver um filme é mais do que assistir, é experimentar, entender por dentro, destrinchar as linhagens históricas, as linguagens estéticas, filosóficas e culturais.',
+    'Teoria do cinema',
+    'O que se aprende vendo filmes?',
+    'Ver um filme é mais do que assistir, é experimentar, entender por dentro, destrinchar as linhagens históricas, as linguagens estéticas, filosóficas e culturais.',
 )
 criaCartao(
     'Teoria da fotografia',
@@ -26,12 +26,17 @@ criaCartao(
 criaCartao(
     'Pós-produção',
     'O que é pós-produção',
+    'Pós-produção é etapa subsequente ao processo de filmagem, uma vez concluída. Refere-se especificamente ao trabalho de montagem e acabamentos, em particular da banda sonora, até à tiragem da primeira cópia.'
 )
 criaCartao(
-    
+    'Sound designer',
+    'O que faz um sound designer',
+'O sound designer, ou designer de som, é uma técnica artística que cria trilhas sonoras. Elas podem ser utilizadas para diversos objetivos e meios, como televisão, cinema, jogos, entre outras áreas' 
 )
 criaCartao(
-    
+    'kinema graphein',
+    'qual o significado da palavra cinematografia',
+
 )
 criaCartao(
     
