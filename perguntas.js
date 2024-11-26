@@ -44,20 +44,18 @@ criaCartao(
     'O Cinema não é apenas uma forma de expressão cultural, mas também um meio de representação. Através de um filme representa-se algo, seja uma realidade percebida e interpretada, ou seja um mundo imaginário livremente criado pelos autores de um filme.'
 )
 criaCartao(
+    'o que é',
+    'o que é ser um cinematógrafo',
+    'Profissional habilitado para a produção de filmes, vídeos e detentor de conhecimento em aspectos artísticos e técnicos da cinematografia.'
+)
+criaCartao(
+    'cineasta',
+    'o que é ser um cineasta',
+    'Amplamente associado com o cinema, o cineasta pode transitar em áreas como canais de televisão ou na direção de espetáculos musicais'
     
 )
 criaCartao(
-    
-)
-criaCartao(
-    
-)
-criaCartao(
-    
-)
-criaCartao(
-    
-)
-criaCartao(
-    
+    'captação de áudio',
+    'qual o principal instrumento para a captação de som em filmes',
+    'O microfone é o principal equipamento de captação de áudio'
 )
