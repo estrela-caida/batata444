@@ -36,7 +36,16 @@ criaCartao(
 criaCartao(
     'kinema graphein',
     'qual o significado da palavra cinematografia',
-
+    'cinematografia significa a arte de produzir imagens em movimento.'
+)
+criaCartao(
+    
+)
+criaCartao(
+    
+)
+criaCartao(
+    
 )
 criaCartao(
     
